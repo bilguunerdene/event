@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/bilguunerdene/event#readme",
   "dependencies": {
+    "jquery": "^3.2.1",
     "swiper": "^4.0.2"
   }
 }
